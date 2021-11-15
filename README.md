@@ -9,3 +9,8 @@ eg files from the internet or downloaded pdfs or homemade pdf files
 
 right now all it does is open a pdf file convert it to a string split that string into a list then search that list
 using key words and return if it found them or not
+
+i might even use this as some sort of pdf search engine when i make i more effiece and less taxing of sytem resoruces i also
+plan to ad multithreding for speed.
+
+my end goal is to just throw on a server and let it mine though a folder of pdfs.
